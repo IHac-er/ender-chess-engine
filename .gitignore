@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+
+# Python bytecode cache
+__pycache__/
+**/__pycache__/
+
+# Python compiled files (optional, recommended)
+*.py[cod]
